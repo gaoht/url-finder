@@ -1,0 +1,12 @@
+.test{
+    background: url("http://test.com/toReplace/test/test.png");
+}
+.test{
+    background: url(/toReplace/test/test.png);
+}
+.test{
+    background: url(' /toReplace/test/test.png ');
+}
+.test{
+    background: url( " /toReplace/test/test.png " );
+}

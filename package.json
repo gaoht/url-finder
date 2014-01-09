@@ -1,7 +1,7 @@
 {
   "name": "url-finder",
   "description": "HTML and CSS url path scanner, use regular expression to find and replace the url path in HTML and CSS file",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/gaoht/url-finder",
   "author": {
     "name": "gaoht",
@@ -39,6 +39,7 @@
   "keywords": [
     "url-finder",
 	"url replace",
-	"path replace"
+	"path replace",
+	"gruntplugin"
   ]
 }
